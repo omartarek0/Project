@@ -1,2 +1,2 @@
-# Peoject
+# Project
 Computer skills project
